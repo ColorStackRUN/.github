@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:EC4899,100:F59E0B&height=240&section=header&text=ColorStack&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rutgers%20University%20%E2%80%93%20Newark&descAlignY=60&descSize=22" width="100%" alt="ColorStack @ Rutgers–Newark banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:CC0033,100:000000&height=240&section=header&text=ColorStack&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rutgers%20University%20%E2%80%93%20Newark&descAlignY=60&descSize=22" width="100%" alt="ColorStack @ Rutgers–Newark banner" />
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Empowering+Black+%26+Latinx+Engineers;Workshops.+Mentorship.+Real+Projects.;Building+the+next+generation+of+tech+leaders." alt="Typing animation" /></a>
-
-<br />
-
-[![Website](https://img.shields.io/badge/Website-colorstackrun.org-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A)](https://colorstackrun.org)
-[![Join Us](https://img.shields.io/badge/Join_on_RaiderLink-EC4899?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0F172A)](https://raiderlink.newark.rutgers.edu/CSDC/club_signup)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/company/colorstack-rutgers/)
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=CC0033&center=true&vCenter=true&width=720&lines=Empowering+Black+%26+Latinx+Engineers;Workshops.+Mentorship.+Real+Projects.;Building+the+next+generation+of+tech+leaders." alt="Typing animation" /></a>
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ColorStackRUN&style=for-the-badge&color=8B5CF6&label=ORG+VIEWS)
-![Chapter](https://img.shields.io/badge/Chapter-Rutgers--Newark-F59E0B?style=for-the-badge&labelColor=0F172A)
-![Status](https://img.shields.io/badge/Status-Shipping-22C55E?style=for-the-badge&labelColor=0F172A)
+[![Website](https://img.shields.io/badge/Website-colorstackrun.org-CC0033?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://colorstackrun.org)
+[![Join Us](https://img.shields.io/badge/Join_on_RaiderLink-FFFFFF?style=for-the-badge&logo=rocket&logoColor=CC0033&labelColor=000000)](https://raiderlink.newark.rutgers.edu/CSDC/club_signup)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-CC0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/company/colorstack-rutgers/)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=ColorStackRUN&style=for-the-badge&color=CC0033&label=ORG+VIEWS)
+![Chapter](https://img.shields.io/badge/Chapter-Rutgers--Newark-CC0033?style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/Status-Shipping-FFFFFF?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -56,7 +56,7 @@ We're the official **ColorStack @ Rutgers University – Newark** chapter — a 
 <tr>
 <td align="center">
 <h3>Recruiting</h3>
-<sub>Direct lines to recruiters and engineers at Google, Meta, Goldman, Bloomberg, and more.</sub>
+<sub>Direct lines to recruiters and engineers at top companies across tech and finance.</sub>
 </td>
 <td align="center">
 <h3>Community</h3>
@@ -126,7 +126,7 @@ If you're a Rutgers–Newark student who wants to break into tech, build alongsi
 <br />
 
 <a href="https://raiderlink.newark.rutgers.edu/CSDC/club_signup">
-  <img src="https://img.shields.io/badge/%E2%86%92%20Join%20ColorStack%20@%20Rutgers%E2%80%93Newark-7C3AED?style=for-the-badge&labelColor=0F172A&color=EC4899" alt="Join button" height="48" />
+  <img src="https://img.shields.io/badge/%E2%86%92%20Join%20ColorStack%20@%20Rutgers%E2%80%93Newark-CC0033?style=for-the-badge&labelColor=000000&color=CC0033" alt="Join button" height="48" />
 </a>
 
 <br /><br />
@@ -135,6 +135,6 @@ If you're a Rutgers–Newark student who wants to break into tech, build alongsi
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:EC4899,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:CC0033,100:000000&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
